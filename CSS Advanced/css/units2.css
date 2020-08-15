@@ -12,7 +12,7 @@
 
 /* Rem | Based on root/html/browser default font size*/
 .rem{
-    border: 2px solid #ff652f;
+    border: 2rem solid #ff652f; /* border = 32px */
     font-size: 2rem;
 }
 
