@@ -1,0 +1,26 @@
+/* Change Default HTML Font Size */
+/* html{
+    font-size: 10px;
+} */
+
+/* Pixels */
+.px{
+    border: 2px solid #ff652f;
+    width: 200px;
+    font-size: 20px;
+}
+
+/* Rem | Based on root/html/browser default font size*/
+.rem{
+    border: 2px solid #ff652f;
+    font-size: 2rem;
+}
+
+/* Em | Based on it's parent font size*/
+.em{
+    font-size: 10px;
+}
+
+ul{
+    font-size: 2em;
+}

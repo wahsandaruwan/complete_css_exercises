@@ -1,0 +1,29 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+/* Pixels */
+.px{
+    border: 2px solid #ff652f;
+    width: 200px;
+    font-size: 20px;
+}
+
+/* Percent | Based on avilable font size of it's parent */
+.percent{
+    border: 2px solid #ff652f;
+    width: 50%;
+    font-size: 50%;
+}
+
+/* View Width (vw) | Based on entire view width/height of the screen */
+.vw{
+    border: 2px solid #ff652f;
+    width: 50vw;
+}
+
+/* View Height (vh) | Based on entire view height of the screen */
+.vh{
+    height: 30vh;
+}
