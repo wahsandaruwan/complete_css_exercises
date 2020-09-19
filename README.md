@@ -27,4 +27,6 @@
 * Transitions
 * Practice Project (Responsive Landing Page)
 
+### License : MIT
+
 ### You are welcome to update these source codes if them contain any miss matches.
